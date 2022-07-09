@@ -1,0 +1,16 @@
+15
+Name: Georgios Georgiou AM: 120 Grade: 12.00
+Name: Vasilios Vasiliou (failed) AM: 122 Grade: 8.50
+Name: Ioanna Ioannidou AM: 142 Grade: 15.50
+Name: Nikos Nikolaou AM: 130 Grade: 20.00
+Name: Kiriakos Kiriakidis (failed) AM: 156 Grade: 7.50
+Name: Kwstas Kwstantinidis (failed) AM: 132 Grade: 1.00
+Name: Spyros Spyropoulos AM: 145 Grade: 19.50
+Name: Dimitris Dimitropoulos AM: 133 Grade: 12.00
+Name: Dimitra Dimitriadi AM: 131 Grade: 17.00
+Name: Areti Aretidou AM: 140 Grade: 17.50
+Name: Ilias Iliopoulos AM: 141 Grade: 15.50
+Name: Kwstas Kwstoglou AM: 150 Grade: 18.00
+Name: Aimilia Aimilianou AM: 155 Grade: 19.00
+Name: Xristina Xristopoulou AM: 134 Grade: 18.00
+Name: Theodoros Theodorou AM: 146 Grade: 19.00
